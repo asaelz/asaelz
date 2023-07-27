@@ -20,10 +20,10 @@ and now i'm in the journey to be a full stack javascript developer 🚀
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VB-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 
-### Stats 🖖
+<!--### Stats 🖖
 <a href="https://github.com/asaelz/asaelz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asaelz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asaelz's GitHub Stats" />
-</a>
+</a> -->
 
 
 <!--
