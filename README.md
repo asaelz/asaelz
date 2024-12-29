@@ -10,8 +10,6 @@ Hi, My Name is Asael Zuniga, I'm From Managua - Nicaragua.
 I consider myself a constant Learner, everyday we can learn new things. 
 <br/>
 I'm passionate about web programming 👨‍🚀
-<br/>
-and now i'm in the journey to be a full stack javascript developer 🚀
 
 ### Technologies & Tools ⚙
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
